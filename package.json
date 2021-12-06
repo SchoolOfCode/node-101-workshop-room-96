@@ -1,0 +1,24 @@
+{
+  "name": "101-workshop-room-96",
+  "version": "1.0.0",
+  "description": "first try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nadacoder2021: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@github.com/SchoolOfCode/node-101-workshop-room-96.git"
+  },
+  "keywords": [
+    "node",
+    "first",
+    "try"
+  ],
+  "author": "nada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/node-101-workshop-room-96/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-room-96#readme"
+}
